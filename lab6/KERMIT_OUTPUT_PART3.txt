@@ -1,0 +1,250 @@
+.... program started with 0*0,0*1, etc, but the console history doesn't go back that far.
+
+
+
+
+Read 12 bytes
+13 * 7 = 91  Result Correct   **
+
+
+Read 12 bytes
+13 * 8 = 104  Result Correct   **
+
+
+Read 12 bytes
+13 * 9 = 117  Result Correct   **
+
+
+Read 12 bytes
+13 * 10 = 130  Result Correct   **
+
+
+Read 12 bytes
+13 * 11 = 143  Result Correct   **
+
+
+Read 12 bytes
+13 * 12 = 156  Result Correct   **
+
+
+Read 12 bytes
+13 * 13 = 169  Result Correct   **
+
+
+Read 12 bytes
+13 * 14 = 182  Result Correct   **
+
+
+Read 12 bytes
+13 * 15 = 195  Result Correct   **
+
+
+Read 12 bytes
+13 * 16 = 208  Result Correct   **
+
+
+Read 12 bytes
+14 * 0 = 0  Result Correct   **
+
+
+Read 12 bytes
+14 * 1 = 14  Result Correct   **
+
+
+Read 12 bytes
+14 * 2 = 28  Result Correct   **
+
+
+Read 12 bytes
+14 * 3 = 42  Result Correct   **
+
+
+Read 12 bytes
+14 * 4 = 56  Result Correct   **
+
+
+Read 12 bytes
+14 * 5 = 70  Result Correct   **
+
+
+Read 12 bytes
+14 * 6 = 84  Result Correct   **
+
+
+Read 12 bytes
+14 * 7 = 98  Result Correct   **
+
+
+Read 12 bytes
+14 * 8 = 112  Result Correct   **
+
+
+Read 12 bytes
+14 * 9 = 126  Result Correct   **
+
+
+Read 12 bytes
+14 * 10 = 140  Result Correct   **
+
+
+Read 12 bytes
+14 * 11 = 154  Result Correct   **
+
+
+Read 12 bytes
+14 * 12 = 168  Result Correct   **
+
+
+Read 12 bytes
+14 * 13 = 182  Result Correct   **
+
+
+Read 12 bytes
+14 * 14 = 196  Result Correct   **
+
+
+Read 12 bytes
+14 * 15 = 210  Result Correct   **
+
+
+Read 12 bytes
+14 * 16 = 224  Result Correct   **
+
+
+Read 12 bytes
+15 * 0 = 0  Result Correct   **
+
+
+Read 12 bytes
+15 * 1 = 15  Result Correct   **
+
+
+Read 12 bytes
+15 * 2 = 30  Result Correct   **
+
+
+Read 12 bytes
+15 * 3 = 45  Result Correct   **
+
+
+Read 12 bytes
+15 * 4 = 60  Result Correct   **
+
+
+Read 12 bytes
+15 * 5 = 75  Result Correct   **
+
+
+Read 12 bytes
+15 * 6 = 90  Result Correct   **
+
+
+Read 12 bytes
+15 * 7 = 105  Result Correct   **
+
+
+Read 12 bytes
+15 * 8 = 120  Result Correct   **
+
+
+Read 12 bytes
+15 * 9 = 135  Result Correct   **
+
+
+Read 12 bytes
+15 * 10 = 150  Result Correct   **
+
+
+Read 12 bytes
+15 * 11 = 165  Result Correct   **
+
+
+Read 12 bytes
+15 * 12 = 180  Result Correct   **
+
+
+Read 12 bytes
+15 * 13 = 195  Result Correct   **
+
+
+Read 12 bytes
+15 * 14 = 210  Result Correct   **
+
+
+Read 12 bytes
+15 * 15 = 225  Result Correct   **
+
+
+Read 12 bytes
+15 * 16 = 240  Result Correct   **
+
+
+Read 12 bytes
+16 * 0 = 0  Result Correct   **
+
+
+Read 12 bytes
+16 * 1 = 16  Result Correct   **
+
+
+Read 12 bytes
+16 * 2 = 32  Result Correct   **
+
+
+Read 12 bytes
+16 * 3 = 48  Result Correct   **
+
+
+Read 12 bytes
+16 * 4 = 64  Result Correct   **
+
+
+Read 12 bytes
+16 * 5 = 80  Result Correct   **
+
+
+Read 12 bytes
+16 * 6 = 96  Result Correct   **
+
+
+Read 12 bytes
+16 * 7 = 112  Result Correct   **
+
+
+Read 12 bytes
+16 * 8 = 128  Result Correct   **
+
+
+Read 12 bytes
+16 * 9 = 144  Result Correct   **
+
+
+Read 12 bytes
+16 * 10 = 160  Result Correct   **
+
+
+Read 12 bytes
+16 * 11 = 176  Result Correct   **
+
+
+Read 12 bytes
+16 * 12 = 192  Result Correct   **
+
+
+Read 12 bytes
+16 * 13 = 208  Result Correct   **
+
+
+Read 12 bytes
+16 * 14 = 224  Result Correct   **
+
+
+Read 12 bytes
+16 * 15 = 240  Result Correct   **
+
+
+Read 12 bytes
+16 * 16 = 256  Result Correct   **
+
+q
+# 
